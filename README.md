@@ -9,7 +9,7 @@ description
 - **16x MX-Style Keys** 
 
 ## Cad Model:
-<p>
+<p style="colour:red">
     The case uses 8 M2 Bolts and heatset inserts, 4 are for the case, and the other ones are for the PCB<br>
     It has 4 seperate printed parts (Case Bottom, Case Top, 2x Dial knobs)
 </p>
