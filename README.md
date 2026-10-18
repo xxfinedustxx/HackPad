@@ -63,5 +63,6 @@ This hackpad will use [QMK](https://qmk.fm) firmware for everything.
 
 ## Extras 
 <p align = "center">
+    <h2>My brain when low motivation levels</h2>
     <img src = "https://tenor.com/hr/view/duck-gif-23067050.gif" width = "800" alt = "New spining duck needed">
 </p>
