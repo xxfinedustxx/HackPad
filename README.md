@@ -46,9 +46,9 @@ This hackpad will use [QMK](https://qmk.fm) firmware for everything.
 - [ ] 1x unsoldered Seeed XIAO RP2040
 - [ ] 1x 0.91 inch OLED display
 - [ ] 1x PCB
-- [+] 1x MCP23017-E/ML (I2C Port Expander)
-- [+] 1x 10kΩ UNI-ROYAL 0805W8F1002T5E
-- [+] 2x 4.7kΩ UNI-ROYAL 0805W8F4701T5E
+- [x] 1x MCP23017-E/ML (I2C Port Expander)
+- [x] 1x 10kΩ UNI-ROYAL 0805W8F1002T5E
+- [x] 2x 4.7kΩ UNI-ROYAL 0805W8F4701T5E
 ### Hardware & Fasteners
 - [ ] 6x M3x16mm SHCS Bolts
 - [ ] 6x M3x5mx4mm heatset inserts
