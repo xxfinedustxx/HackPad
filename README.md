@@ -1,6 +1,5 @@
-# HackPad
-(template)
-description
+# F.D. HackPad
+F.D Hackpad is a fork of the [HackClubs](https://hackpad.hackclub.com) Hackpad mission. It has an OLED Display it will use [QMK](https://qmk.fm) firmware. It also has 16 SK6812 MINI-E Leds, and 16 keys and 2 rotary encoders. *For good mesure*
 
 ## Features:
 - **128x32 OLED Display**
@@ -9,7 +8,7 @@ description
 - **16x MX-Style Keys** 
 
 ## Cad Model:
-<p style = "colour:red">
+<p>
     The case uses 8 M2 Bolts and heatset inserts, 4 are for the case, and the other ones are for the PCB<br>
     It has 4 seperate printed parts (Case Bottom, Case Top, 2x Dial knobs)
 </p>
@@ -21,12 +20,14 @@ description
 
 ## PCB
 <p align = "center">
-    <p>Here's is my PCB! It was made in EasyEDA</p>
+    <span>Here's is my PCB! It was made in EasyEDA</span>
     <h3>PCB</h3><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png">
     <h3>Schematic</h3><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png">
-    <p>I made my own keyswitch footprints</p>
+    <p>
+        <em>I designed my own keyswitch footprints for this project.</em>
+    </p>
 </p>
 
 
