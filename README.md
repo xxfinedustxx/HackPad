@@ -23,9 +23,9 @@ F.D Hackpad is a fork of the [HackClubs](https://hackpad.hackclub.com) Hackpad m
 <p align = "center">
     <span><em>Here's is my PCB! It was made in EasyEDA</em></span>
     <h4>PCB</h4><br>
-    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png">
+    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png" alt = "No picture">
     <h4>Schematic</h4><br>
-    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png">
+    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png" alt = "No picture">
     <p>
         <em>Note: I designed my own keyswitch footprints for this project.</em>
     </p>
@@ -60,3 +60,8 @@ This hackpad will use [QMK](https://qmk.fm) firmware for everything.
 - [ ] 1x Case Top
 - [ ] 1x Case Bottom
 - [ ] 2x Knob Dials
+
+## Extras 
+<p align = "center">
+    <img src = "https://tenor.com/hr/view/duck-gif-23067050" width = "200" alt = "New spining duck needed">
+</p>
