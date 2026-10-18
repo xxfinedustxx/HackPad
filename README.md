@@ -26,7 +26,7 @@ description
 
 
 ## Firmware Overview
-This hackpad will use [QMK][https://qmk.fm] firmware for everything.
+This hackpad will use [QMK](https://qmk.fm) firmware for everything.
 - first rotary encoder will change volume, press to mute 
 - second rotary encoder will change board layout on press or rotation (didn't decide yet) and bu used to display diffrent pngs on the OLED
 - OLED will be used to display pngs
