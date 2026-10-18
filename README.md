@@ -9,7 +9,7 @@ description
 - **16x MX-Style Keys** 
 
 ## Cad Model:
-<p style="colour:red">
+<p style = "colour:red">
     The case uses 8 M2 Bolts and heatset inserts, 4 are for the case, and the other ones are for the PCB<br>
     It has 4 seperate printed parts (Case Bottom, Case Top, 2x Dial knobs)
 </p>
@@ -52,6 +52,8 @@ This hackpad will use [QMK](https://qmk.fm) firmware for everything.
 ### Hardware & Fasteners
 - [ ] 6x M3x16mm SHCS Bolts
 - [ ] 6x M3x5mx4mm heatset inserts
+- [x] 4x M2x8mm Bolts
+- [x] 4x M2x3mmx4mm
 ### 3D Prints
 - [ ] 1x Case Top
 - [ ] 1x Case Bottom
