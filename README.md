@@ -15,18 +15,19 @@ F.D Hackpad is a fork of the [HackClubs](https://hackpad.hackclub.com) Hackpad m
 <p align = "center">
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadR.png" width = "400">
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadL.png" width = "400"><br>
-    It was made in Fusion360.
 </p>
+It was made in Fusion360.
 
 ## PCB
+
 <p align = "center">
-    <span>Here's is my PCB! It was made in EasyEDA</span>
-    <h3>PCB</h3><br>
+    <span><em>Here's is my PCB! It was made in EasyEDA</em></span>
+    <h4>PCB</h4><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png">
-    <h3>Schematic</h3><br>
+    <h4>Schematic</h4><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png">
     <p>
-        <em>I designed my own keyswitch footprints for this project.</em>
+        <em>Note: I designed my own keyswitch footprints for this project.</em>
     </p>
 </p>
 
