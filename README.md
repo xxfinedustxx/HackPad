@@ -23,9 +23,9 @@ description
 <p align = "center">
     <p>Here's is my PCB! It was made in EasyEDA</p>
     <h3>PCB</h3><br>
-    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png"><br>
+    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png">
     <h3>Schematic</h3><br>
-    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png"><br>
+    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png">
     <p>I made my own keyswitch footprints</p>
 </p>
 
