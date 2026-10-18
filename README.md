@@ -26,6 +26,7 @@ description
 - [ ] 1x unsoldered Seeed XIAO RP2040
 - [ ] 1x 0.91 inch OLED display
 - [ ] 1x PCB
+- [x] 1x MCP23017-E/ML
 ### Other
 - [ ] 6x M3x16mm SHCS Bolts
 - [ ] 6x M3x5mx4mm heatset inserts
