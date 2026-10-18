@@ -3,10 +3,16 @@
 description
 
 ## Features:
-- 128x32 OLED Display
+- **128x32 OLED Display**
+- **Dual Rotonary Knobs**
+- **RGB Per-Key Backlighting**
+- **16x MX-Style Keys** 
 
 ## Cad Model:
-<img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadR.png" width = "400"><img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadL.png" width = "400">
+<p align = "center">
+    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadR.png" width = "400">
+    <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadL.png" width = "400">
+</p>
 description
 
 ## PCB
@@ -26,10 +32,10 @@ description
 - [ ] 1x unsoldered Seeed XIAO RP2040
 - [ ] 1x 0.91 inch OLED display
 - [ ] 1x PCB
-- [x] 1x MCP23017-E/ML
+- [x] 1x MCP23017-E/ML (I2C Port Expander)
 - [x] 1x 10kΩ UNI-ROYAL 0805W8F1002T5E
 - [x] 2x 4.7kΩ UNI-ROYAL 0805W8F4701T5E
-### Other
+### Hardware & Fasteners
 - [ ] 6x M3x16mm SHCS Bolts
 - [ ] 6x M3x5mx4mm heatset inserts
 ### 3D Prints
