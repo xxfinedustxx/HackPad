@@ -26,7 +26,7 @@ description
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png">
     <h3>Schematic</h3><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png">
-    <h3>I made my own keyswitch footprints</h3>
+    <p>I made my own keyswitch footprints</p>
 </p>
 
 
