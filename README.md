@@ -6,8 +6,7 @@ description
 - 128x32 OLED Display
 
 ## Cad Model:
-<img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadL.png" width = "200">
-<img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadR.png" width = "200">
+<img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadR.png" width = "400"><img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadL.png" width = "400">
 description
 
 ## PCB
