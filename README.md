@@ -21,7 +21,7 @@ description
 
 ## PCB
 <p align = "center">
-    <p>Here's is my PCB! It was made in EasyEDA</p>
+    <p>Here's is my PCB! It was made in EasyEDA</p><br>
     <h3>PCB</h><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png"><br>
     <h3>Schematic</h3><br>
