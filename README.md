@@ -1,5 +1,5 @@
 # F.D. HackPad
-F.D Hackpad is a fork of the [HackClubs](https://hackpad.hackclub.com) Hackpad mission. It has an OLED Display it will use [QMK](https://qmk.fm) firmware. It also has 16 SK6812 MINI-E Leds, and 16 keys and 2 rotary encoders. *For good mesure*
+F.D Hackpad is a fork of the [HackClubs](https://hackpad.hackclub.com) Hackpad mission. It has an OLED Display it will use [QMK](https://qmk.fm) firmware. It also has SK6812 MINI-E Leds, keys and 2 rotary encoders. *For good measure*
 
 ## Features:
 - **128x32 OLED Display**
