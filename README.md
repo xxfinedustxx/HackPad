@@ -18,18 +18,18 @@ description
 ## PCB
 <p align = "center">
     <p>Here's is my PCB! It was made in EasyEDA</p>
-    <h3>PCB</h>
+    <h3>PCB</h><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png">
-    <h3>Schematic</h3>
+    <h3>Schematic</h3><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png">
 </p>
 
 
 ## Firmware Overview
 This hackpad will use [QMK][https://qmk.fm] firmware for everything.
--first rotary encoder will change volume, press to mute 
--second rotary encoder will change board layout on press or rotation (didn't decide yet) and bu used to display diffrent pngs on the OLED
--OLED will be used to display pngs
+- first rotary encoder will change volume, press to mute 
+- second rotary encoder will change board layout on press or rotation (didn't decide yet) and bu used to display diffrent pngs on the OLED
+- OLED will be used to display pngs
 
 
 ## BOM
