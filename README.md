@@ -61,7 +61,7 @@ This hackpad will use [QMK](https://qmk.fm) firmware for everything.
 - [ ] 1x Case Bottom
 - [ ] 2x Knob Dials
 
-## Extras 
+# Extras 
 <p align = "center">
     <em>My brain when low motivation levels</em>
     <img src = "https://tenor.com/hr/view/duck-gif-23067050.gif" width = "650" alt = "New spining duck needed">
