@@ -16,7 +16,7 @@ F.D Hackpad is a fork of the [HackClubs](https://hackpad.hackclub.com) Hackpad m
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadR.png" width = "400">
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadL.png" width = "400"><br>
 </p>
-It was made in Fusion360.
+<em>Note: It was made in Fusion360.</em>
 
 ## PCB
 
