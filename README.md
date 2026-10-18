@@ -9,11 +9,15 @@ description
 - **16x MX-Style Keys** 
 
 ## Cad Model:
+<p>
+    The case uses 8 M2 Bolts and heatset inserts, 4 are for the case, and the other ones are for the PCB<br>
+    It has 4 seperate printed parts (Case Bottom, Case Top, 2x Dial knobs)
+</p>
 <p align = "center">
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadR.png" width = "400">
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/AssemblyHackPadL.png" width = "400">
+    It was made in Fusion360.
 </p>
-description
 
 ## PCB
 <p align = "center">
@@ -22,6 +26,7 @@ description
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/PCB_PCB_Macropad_2026-10-18.png">
     <h3>Schematic</h3><br>
     <img src = "https://github.com/xxfinedustxx/HackPad/blob/main/asserts/Schematic_Macropad_2026-10-18.png">
+    <h3>I made my own keyswitch footprints</h3>
 </p>
 
 
