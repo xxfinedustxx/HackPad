@@ -66,3 +66,6 @@ This hackpad will use [QMK](https://qmk.fm) firmware for everything.
     <em>My brain when low motivation levels</em>
     <img src = "https://tenor.com/hr/view/duck-gif-23067050.gif" width = "650" alt = "New spining duck needed">
 </p>
+<p align = "center">
+    <em>Me after figuring out that .wakatime-project is used to sync multiple projects but with differnt names after spending 2:03h on HackPad instead of My awesome macropad!</em>
+</p>
