@@ -44,7 +44,7 @@ Initial QMK firmware backbone status
 - [ ] Encoder's functional logic (Volume/Layout rotation).
 - [ ] Custom OLED display rendering engine configured.
 
-## BOM
+## BOM (Bill of materials)
 ### Electronics
 - [ ] 16x MX-Style switches
 - [ ] 16x white blank DSA keycaps
@@ -72,5 +72,7 @@ Initial QMK firmware backbone status
     <img src = "https://tenor.com/hr/view/duck-gif-23067050.gif" width = "650" alt = "New spining duck needed">
 </p>
 <p align = "center">
-    <em>Me after figuring out that .wakatime-project is used to sync multiple projects but with differnt names after spending 2:03h on HackPad instead of My awesome macropad!</em>
+    <em>
+    Me after figuring out that .wakatime-project is used to sync multiple projects but with differnt names after spending 2:03h on HackPad instead of My awesome macropad!
+    </em>
 </p>
