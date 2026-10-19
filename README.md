@@ -12,10 +12,10 @@ F.D Hackpad is a fork of the [HackClubs](https://hackpad.hackclub.com) Hackpad m
     The case uses 8 M2 Bolts and heatset inserts, 4 are for the case, and the other ones are for the PCB<br>
     It has 4 seperate printed parts (Case Bottom, Case Top, 2x Dial knobs)
 </p>
-
-![Assembly Left View](asserts/AssemblyHackPadL.png)
-![Assembly Right View](asserts/AssemblyHackPadR.png)<br>
-
+<p align = "center">
+    <img src = "asserts/AssemblyHackPadR.png" width = "400">
+    <img src = "asserts/AssemblyHackPadL.png" width = "400"><br>
+</p>
 <em>Note: It was made in Fusion360.</em>
 
 ## PCB
