@@ -38,6 +38,11 @@ This hackpad will use [QMK](https://qmk.fm) firmware for everything.
 - second rotary encoder will change board layout on press or rotation (didn't decide yet) and bu used to display diffrent pngs on the OLED
 - OLED will be used to display pngs
 
+## Firmware Status:
+Initial QMK firmware backbone status
+- [-] Basic 4x4 matrix key mapping layout configured.
+- [-] Encoder's functional logic (Volume/Layout rotation).
+- [-] Custom OLED display rendering engine configured.
 
 ## BOM
 ### Electronics
