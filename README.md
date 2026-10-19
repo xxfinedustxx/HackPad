@@ -40,9 +40,9 @@ This hackpad will use [QMK](https://qmk.fm) firmware for everything.
 
 ## Firmware Status:
 Initial QMK firmware backbone status
-- [-] Basic 4x4 matrix key mapping layout configured.
-- [-] Encoder's functional logic (Volume/Layout rotation).
-- [-] Custom OLED display rendering engine configured.
+- [ ] Basic 4x4 matrix key mapping layout configured.
+- [ ] Encoder's functional logic (Volume/Layout rotation).
+- [ ] Custom OLED display rendering engine configured.
 
 ## BOM
 ### Electronics
