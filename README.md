@@ -21,7 +21,9 @@ F.D Hackpad is a fork of the [HackClubs](https://hackpad.hackclub.com) Hackpad m
 ## PCB
 
 <p align = "center">
-    <span><em>Here's is my PCB! It was made in EasyEDA</em></span>
+    <p>
+        <em>Note: Here's is my PCB! It was made in EasyEDA</em>
+    </p>
     <h4>PCB</h4><br>
     <img src = "asserts\PCB_PCB_Macropad_2026-10-18.png" alt = "No picture">
     <h4>Schematic</h4><br>
