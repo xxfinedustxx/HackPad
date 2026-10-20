@@ -48,6 +48,7 @@ Initial QMK firmware backbone status
 
 ## BOM (Bill of materials)
 ### Electronics
+- [ ] 2x EC11E Rotary encoders
 - [ ] 16x MX-Style switches
 - [ ] 16x white blank DSA keycaps
 - [ ] 20x 1N4148 Diodes
