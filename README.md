@@ -60,8 +60,6 @@ Initial QMK firmware backbone status
 - [x] 1x 10kΩ UNI-ROYAL 0805W8F1002T5E
 - [x] 2x 4.7kΩ UNI-ROYAL 0805W8F4701T5E
 ### Hardware & Fasteners
-- [ ] 6x M3x16mm SHCS Bolts
-- [ ] 6x M3x5mx4mm heatset inserts
 - [x] 4x M2x8mm Bolts
 - [x] 4x M2x3mmx4mm
 ### 3D Prints
